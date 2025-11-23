@@ -1,55 +1,22 @@
-                             Observing Responsibility-Related Behaviors in a University Setting
+  Observing Responsibility-Related Behaviors in a University Setting
 
 
-    The purpose of this observation study was to examine everyday behaviors related to the personality trait 
-of Conscientiousness within the OCEAN framework. Conscientiousness has aspects such as; punctuality, organization, 
-reliability, and responsibility. In this study we used a naturalistic observation method and observed punctuality 
-and responsibility in 6 different classes over two days. 
-
- 
-  Participiants
-
-  The observed participiants of this study are university students in their usual classes.
-  Approximately 30 - 45 individuals were observed depending the time of the classes.
-
-  Setting
-
-  The observation took place in university classes and observers sat down at the back of the class 
-  in order to who is late and also who is not giving focus to the lesson(texting, playing games on computer).
-  The observers did not interact with any individuals and noted behaviours discreetly to avoid influcing actions.
-
-  Operational Definitions
-
-   In this study, the following observable behaviors were defined:
-
-   For observing punctuality; we noted how many students were ready 5 minute before the class.
-   Also we noted how many students were late 5 minutes and 10 minutes after class start time.
-
-   For observing responsibility; we noted how many students were focused to the lesson 5 and 45 minutes after the
-   starting time. Also we noted how many students were not interested about the lesson in those time frames.
-
-   Results
-
-   Across all sessions
-
-  Punctuality:
-    72 students arrive on time. 
-    7 students arrived late.
-
-  Responsibility:
-    In the first 5 minutes of the lesson:
-      13 students were not focused to the lesson.
-      68 students were focused to the lesson.
-
-    After 45 minutes of class time:
-      19 students were not focused to the lesson.
-      61 students were focused to the lesson.
-
-   Overall the majority of students showed some aspects of conscientious behaviour.
-       
-  Discussion 
-
-  
-   
+Deniz Kandemir and Dominica 
+University Of Warsaw
+23 November 2025
 
 
+    The purpose of this observation study was to examine everyday behaviors related to the personality trait of Conscientiousness within the OCEAN framework. The APA Dictionary of Psychology defines conscientiousness as “the tendency to be organized, responsible, and hard-working” (VandenBos, 2007, p. 218). 
+
+In this study we examine conscientiousness through the behavior of punctuality . Eisenberg et al. (2014) argue that conscientiousness is fostered by self-regulation and internalized compliance with standards, reflecting disciplined behavior such as punctuality (Eisenberg et al., 2014). We used a naturalistic observation method and observed punctuality in 6 different classes over two days. We defined punctuality as the students being at class before the scheduled lesson session. Students who are present at the class before the scheduled lesson time were coded as “on time” and students who arrived after the lesson time were coded as “late”. In prior research, punctuality has been linked to conscientiousness. Back et al. (2006) claims  that three factors of the Big Five are relevant with respect to punctuality behavior: conscientiousness, agreeableness, and neuroticism (Back et al., 2006; Ellis & Jenkins, 2015).
+
+
+Method of This Study
+
+  The observation took place in university classes with two observers and observers took places at the back of the class in order to see who was late. We did not interact with any individuals and noted behaviours discreetly to avoid influencing actions. We also noted everyone who was present at the class before the lesson time. If a student arrived after the lesson officially began, that student was marked as late (i.e., not punctual). Thus, punctuality was operationalized as being present at or before the start of class, and each student was noted as either “on time” or “late.”
+
+The observations were conducted in 6 different classes with at least one observer at every class. Observed classes were included Japanese Language (N = 18), Introduction to Psychology (N = 44), Philosophy (N = 41), Academic Skills (N = 24), Research Methods (N = 47, observed on two occasions), and a Biological Bases of Behaviour (N = 33). In this report, “N” refers to the number of students observed in each class session. Japanese Language and Biological Bases of Behaviour classes were started early in the morning; therefore the punctuality rate for these classes were lower compared to classes that were starting later in the day.
+
+
+
+Results and Discussion
